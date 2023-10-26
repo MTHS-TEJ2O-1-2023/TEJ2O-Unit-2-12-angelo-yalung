@@ -2,7 +2,7 @@
  *
  * Created by: Angelo Yalung
  * Created on: Oct 2023
- * This program ...
+ * This program lights up the neopixels either green or red depending on how far the sonar gets it's distance from
 */
 
 // variables
